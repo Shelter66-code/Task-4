@@ -1,0 +1,7 @@
+C:\Users\323\Desktop\Борисов Сергей 26ИС\Борисов Сергей 26ИС\bin\Debug\Борисов Сергей 26ИС.exe.config
+C:\Users\323\Desktop\Борисов Сергей 26ИС\Борисов Сергей 26ИС\bin\Debug\Борисов Сергей 26ИС.exe
+C:\Users\323\Desktop\Борисов Сергей 26ИС\Борисов Сергей 26ИС\bin\Debug\Борисов Сергей 26ИС.pdb
+C:\Users\323\Desktop\Борисов Сергей 26ИС\Борисов Сергей 26ИС\obj\Debug\Борисов Сергей 26ИС.csproj.AssemblyReference.cache
+C:\Users\323\Desktop\Борисов Сергей 26ИС\Борисов Сергей 26ИС\obj\Debug\Борисов Сергей 26ИС.csproj.CoreCompileInputs.cache
+C:\Users\323\Desktop\Борисов Сергей 26ИС\Борисов Сергей 26ИС\obj\Debug\Борисов Сергей 26ИС.exe
+C:\Users\323\Desktop\Борисов Сергей 26ИС\Борисов Сергей 26ИС\obj\Debug\Борисов Сергей 26ИС.pdb
